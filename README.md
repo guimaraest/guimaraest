@@ -18,3 +18,5 @@ some things ive learnt along the way:
 + homelabbing, nextcloud & cloudflare 
 
 if you wish to speak with me send an email to guimaraesthiago20@gmail.com
+
+(i use more ai than i should for my code, atp its not a choice its an addiction)
