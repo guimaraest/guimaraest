@@ -1,4 +1,4 @@
-## Hello, im t. guimarães
+## Hello, im thiago guimarães
 
 ---
 
@@ -16,3 +16,5 @@ some things ive learnt along the way:
 + some very basic django and react  
 + linux usage and ricing  
 + homelabbing, nextcloud & cloudflare 
+
+if you wish to speak with me send an email to guimaraesthiago20@gmail.com
