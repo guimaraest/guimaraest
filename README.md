@@ -1,4 +1,4 @@
-## Hello, im thiago guimarães
+## hello, im thiago guimarães
 
 ---
 
